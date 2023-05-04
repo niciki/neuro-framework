@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt 
-from sklearn.datasets import make_classification, load_iris, make_regression
 import numpy as np
 np.random.seed(0)
 import random
